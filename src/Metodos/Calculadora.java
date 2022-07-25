@@ -1,3 +1,5 @@
+package Metodos;
+
 public class Calculadora {
 
     public static void somar(double valor1, double valor2){

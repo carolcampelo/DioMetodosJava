@@ -1,3 +1,5 @@
+package Metodos;
+
 public class Emprestimo {
     float valorEmprestimo, valorTotal, valorParcela, quantidadeParcelas, multiplicadorJuros, jurosMensal;
 

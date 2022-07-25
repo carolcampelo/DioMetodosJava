@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0431dee8-eb07-4405-aae4-3b12ffc3cb6a" name="Changes" comment="Primeiro commit. Classes do desafio: Empréstimo, Mensagem e Calculadora. Todas com classes testes para executar análises." />
+    <list default="true" id="0431dee8-eb07-4405-aae4-3b12ffc3cb6a" name="Changes" comment="Primeiro commit. Classes do desafio: Empréstimo, Mensagem e Calculadora. Todas com classes testes para executar análises.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasDeRepeticao/Ex001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DioMetodosJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DioCodeGirls.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metodos/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Emprestimo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metodos/Emprestimo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metodos/Mensagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteCalculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metodos/TesteCalculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteEmprestimo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metodos/TesteEmprestimo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteMensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metodos/TesteMensagem.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +35,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1658596102" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1658596101" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -35,40 +73,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/workspace/IdeaProject/PrimeiroPrograma&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/workspace/IdeaProject/PrimeiroPrograma"
   }
-}</component>
-  <component name="RunManager" selected="Application.TesteCalculadora">
-    <configuration name="TesteCalculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TesteCalculadora" />
-      <module name="DioMetodosJava" />
+}]]></component>
+  <component name="RunManager" selected="Application.Metodos.TesteCalculadora">
+    <configuration name="Metodos.TesteCalculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Metodos.TesteCalculadora" />
+      <module name="DioCodeGirls" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteEmprestimo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TesteEmprestimo" />
-      <module name="DioMetodosJava" />
+    <configuration name="Metodos.TesteEmprestimo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Metodos.TesteEmprestimo" />
+      <module name="DioCodeGirls" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteMensagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TesteMensagem" />
-      <module name="DioMetodosJava" />
+    <configuration name="Metodos.TesteMensagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Metodos.TesteMensagem" />
+      <module name="DioCodeGirls" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TesteCalculadora" />
-        <item itemvalue="Application.TesteEmprestimo" />
-        <item itemvalue="Application.TesteMensagem" />
+        <item itemvalue="Application.Metodos.TesteCalculadora" />
+        <item itemvalue="Application.Metodos.TesteEmprestimo" />
+        <item itemvalue="Application.Metodos.TesteMensagem" />
       </list>
     </recent_temporary>
   </component>
@@ -95,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658596122882</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Primeiro commit. Classes do desafio: Empréstimo, Mensagem e Calculadora. Todas com classes testes para executar análises.">
+      <created>1658596762253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658596762253</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

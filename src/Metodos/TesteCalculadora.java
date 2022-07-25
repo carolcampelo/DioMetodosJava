@@ -1,3 +1,5 @@
+package Metodos;
+
 import java.util.Scanner;
 
 public class TesteCalculadora {
@@ -5,7 +7,7 @@ public class TesteCalculadora {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("=== Calculadora ===");
+        System.out.println("=== DioMetodosJava.Calculadora ===");
         System.out.println("Selecione a opção desejada: \n[1] - Somar \n[2] - Subtrair \n[3] - Multiplicar \n[4] - Dividir \n[5] - Sair");
 
         double valor1, valor2;
